@@ -9,7 +9,8 @@ dependencies:
   - voila
   - ipyfilechooser
   - jupyterlab 
-  - ipywidgets 
+  - ipywidgets
+  - ipyleaflet
   - jupyter
   - sidecar
   - pint
