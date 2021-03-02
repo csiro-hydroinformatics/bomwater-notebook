@@ -4,6 +4,7 @@ channels:
 dependencies: 
   - python=3.7
   - pandas
+  - geopandas
   - numpy
   - matplotlib
   - voila
@@ -14,6 +15,9 @@ dependencies:
   - jupyter
   - sidecar
   - pint
+  - requests
   - pip
   - pip:
-    - bomwater
+      - bomwater
+    # will add link to bomwater python package once deployed on pypi
+    # installing manaully for now
