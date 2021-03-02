@@ -16,5 +16,4 @@ dependencies:
   - pint
   - pip
   - pip:
-    # will add link to bomwater python package once deployed on pypi
-    # installing manaully for now
+    - bomwater
