@@ -2,6 +2,7 @@ name: bomwater_nb_env
 channels:
   - conda-forge
 dependencies: 
+  - python>=3.10.4
   - pip
   - pip:
     - -r requirements.txt
