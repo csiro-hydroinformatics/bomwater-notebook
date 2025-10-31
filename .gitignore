@@ -6,3 +6,7 @@
 .idea/
 
 .venv
+
+bomwater_data/mdb_water_coarse_discharge/
+
+bomwater_data/mdb_water_course_level/
