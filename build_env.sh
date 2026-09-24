@@ -1,3 +1,4 @@
+#Building local virtual environment to be used by the notebook
 VENV_NAME=.venv
 poetry install --no-root
 poetry export --without-hashes -f requirements.txt --output requirements.txt
